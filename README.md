@@ -54,8 +54,7 @@ Below are the formal data citations, following Wiley’s Data Citation Policy: \
 
 [CEPII] CEPII; 2023; Actualités du CEPII – Gravity Dataset; CEPII; \url{http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele_item.asp?id=6}\\
 
-[TheGlobalEconomy] Valev, Neven; Bieri, Franziska; Bizuneh, Menna; 2024; Global Economy, World Economy; TheGlobalEconomy.com; \url{https://www.theglobaleconomy.com/}\\
-\vspace{1em}
+[TheGlobalEconomy] Valev, Neven; Bieri, Franziska; Bizuneh, Menna; 2024; Global Economy, World Economy; TheGlobalEconomy.com; \url{https://www.theglobaleconomy.com/
 
 
 
