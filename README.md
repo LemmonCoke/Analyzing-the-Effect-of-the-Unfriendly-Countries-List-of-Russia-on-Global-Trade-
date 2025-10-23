@@ -57,4 +57,11 @@ Below are the formal data citations, following Wiley’s Data Citation Policy: \
 [TheGlobalEconomy] Valev, Neven; Bieri, Franziska; Bizuneh, Menna; 2024; Global Economy, World Economy; TheGlobalEconomy.com; \url{https://www.theglobaleconomy.com/
 
 
+## R Package Citation
+
+Bergé, L. (2018). Efficient Estimation of Maximum Likelihood Models with Multiple Fixed Effects: The R Package FENmlm (CREA Discussion Paper No. 13).
+
+McDermott, G. (2025). etwfe: Extended Two-way Fixed Effects (R package version 0.6.0) [Computer software]. Comprehensive R Archive Network (CRAN). https://CRAN.R-project.org/package=etwfe
+
+
 
