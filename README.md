@@ -1,6 +1,6 @@
 ## Overview
 
-This archive contains the constructed dataset and code for the paper "Analyzing the Effect of the Unfriendly Countries List of Russia on Global Trade through the Staggered Difference-in-Differences Design in the Gravity Model"
+This archive contains the constructed dataset and code for the paper "Analyzing the Effects of the Unfriendly Countries List of Russia on Global Trade through the Staggered Difference-in-Differences Design in the Gravity Model"
 All codes and data files are prepared for use in R (At least R version 4.3.3).
 
 ## Authors
